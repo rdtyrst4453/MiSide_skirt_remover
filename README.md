@@ -1,47 +1,30 @@
-Mita Skirt Remover for MiSide (18+)
-Just a simple mod I made to remove Mita's skirt in MiSide.
+MiSide - Mita Skirt Remover
+Simple asset swap for Mita's model.
 
-Why this mod?
-100% Safe: No viruses, no malware. I built this using UABE and it only modifies the necessary assets.
+Features:
+Removes skirt mesh from Mita.
 
-Easy Install: Comes with an installer, so you don't have to mess with files manually.
+100% Clean: Created using UABE. No executable injection, just asset modification.
 
-How to install (Follow the screenshots):
-Step 1: Run the installer and hit Next.
+Safe: No malware, verified files.
 
-Step 2: Click Select to find your game folder.
+Installation:
+1. Open Installer
+Launch UABE Mod Installer.exe and click Next.
 
-Step 3: Choose the MiSideFull_Data folder and click Select Folder.
+2. Locate Game Directory
+Hit Select and navigate to your MiSide installation folder.
 
-Step 4: Hit Next and wait for the green bar. If you see [SUCCESS] everywhere, you're good to go!
+3. Choose Data Folder
+Select the MiSideFull_Data folder and confirm.
 
-Important:
-This is 18+ content. You know what you're downloading.
+4. Patch Files
+Click Next. Once the progress bar turns green and shows [SUCCESS], the patch is applied.
 
-Back up your files! Always make a backup of your game data before installing any mod just in case.
+Note:
+Maturity Rating: 18+ Content.
 
-Created with UABE.Mita Skirt Remover for MiSide (18+)
-Just a simple mod I made to remove Mita's skirt in MiSide.
-
-Why this mod?
-100% Safe: No viruses, no malware. I built this using UABE and it only modifies the necessary assets.
-
-Easy Install: Comes with an installer, so you don't have to mess with files manually.
-
-How to install (Follow the screenshots):
-Step 1: Run the installer and hit Next.
-
-Step 2: Click Select to find your game folder.
-
-Step 3: Choose the MiSideFull_Data folder and click Select Folder.
-
-Step 4: Hit Next and wait for the green bar. If you see [SUCCESS] everywhere, you're good to go!
-
-Important:
-This is 18+ content. You know what you're downloading.
-
-Back up your files! Always make a backup of your game data before installing any mod just in case.
-
+Backups: The installer modifies resources.assets. It's always smart to keep a backup of your original files before patching.
 Created with UABE.
 <img width="501" height="390" alt="لقطة شاشة 2026-04-24 165908" src="https://github.com/user-attachments/assets/1c5c5a6a-9586-4600-a5dd-511597317974" />
 <img width="496" height="372" alt="لقطة شاشة 2026-04-24 165916" src="https://github.com/user-attachments/assets/e59f4c11-f3ea-41f9-a0f0-eb111e562575" />
